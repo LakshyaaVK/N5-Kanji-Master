@@ -1,5 +1,5 @@
 #KanjiMaster
-I couldn’t find a clean, interactive tool to help study all the JLPT N5-level Kanji, so I decided to build one myself.
+I couldn’t find a proper tool to help study all the JLPT N5-level Kanji, so I decided to build one myself.
 
 This app is designed for learners who want a visual, intuitive, and progressive way to explore all 120+ N5 kanji, along with:
 	•	✅ Stroke count, readings (Onyomi/Kunyomi), meanings
