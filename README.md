@@ -16,7 +16,7 @@ Whether you’re a beginner in Japanese or preparing for the JLPT N5 exam, this 
 🚀 Live Demo
 
 https://n5-kanji-master-hddtm1ckf-lakshyas-projects-37e09158.vercel.app/
-👉 View the Kanji Tool
+👉 View the N5 KanjiMaster 
 
 ⸻
 
