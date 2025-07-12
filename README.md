@@ -1,2 +1,37 @@
-# N5-Kanji-Master
-KanjiMaster is a interactive , responsive website where the user can study all Kanji Characters required to clear N5 level Japanese Language Proficiency Test(JLPT))
+#KanjiMaster
+I couldn’t find a clean, interactive tool to help study all the JLPT N5-level Kanji, so I decided to build one myself.
+
+This app is designed for learners who want a visual, intuitive, and progressive way to explore all 120+ N5 kanji, along with:
+	•	✅ Stroke count, readings (Onyomi/Kunyomi), meanings
+	•	🧠 Vocabulary examples with pronunciation
+	•	📊 Learning progress tracking
+	•	🔊 Pronunciation audio support
+	•	🌙 Light/Dark Mode support
+	•	⚡ Fast performance using React + Vite
+
+Whether you’re a beginner in Japanese or preparing for the JLPT N5 exam, this tool helps you master the kanji at your own pace — without distractions.
+
+⸻
+
+🚀 Live Demo
+
+(Add your deployed website link here, if hosted)
+👉 View the Kanji Tool
+
+⸻
+
+💻 Built With
+	•	React
+	•	Vite
+	•	Tailwind CSS
+	•	Lucide Icons
+
+⸻
+
+📂 Features
+	•	Flipable flashcards for each kanji
+	•	Shows stroke count, JLPT level, and reading types
+	•	Audio pronunciation on button click
+	•	Accuracy and study stats stored locally
+	•	Fully responsive design
+
