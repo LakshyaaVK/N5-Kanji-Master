@@ -1,6 +1,7 @@
 #KanjiMaster
 I couldn’t find a proper tool to help study all the JLPT N5-level Kanji, so I decided to build one myself.
-
+Use the local setup for tracking ur progress as there is no Backend with DataBase , Will work on it soon
+ 
 This app is designed for learners who want a visual, intuitive, and progressive way to explore all 120+ N5 kanji, along with:
 	•	✅ Stroke count, readings (Onyomi/Kunyomi), meanings
 	•	🧠 Vocabulary examples with pronunciation
@@ -33,4 +34,9 @@ https://n5-kanji-master-hddtm1ckf-lakshyas-projects-37e09158.vercel.app/
 	•	Audio pronunciation on button click
 	•	Accuracy and study stats stored locally
 	•	Fully responsive design
-
+ 
+🧪 Local Setup
+git clone https://github.com/LakshyaaVK/N5-Kanji-Master.git
+cd N5-Kanji-Master or cd project
+npm install
+npm run dev
