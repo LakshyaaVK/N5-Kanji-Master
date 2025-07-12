@@ -6,9 +6,8 @@ This app is designed for learners who want a visual, intuitive, and progressive 
 	•	🧠 Vocabulary examples with pronunciation
 	•	📊 Learning progress tracking
 	•	🔊 Pronunciation audio support
-	•	🌙 Light/Dark Mode support
-	•	⚡ Fast performance using React + Vite
-
+	.       ⚡ Fast performance using React + Vite
+	
 Whether you’re a beginner in Japanese or preparing for the JLPT N5 exam, this tool helps you master the kanji at your own pace — without distractions.
 
 ⸻
